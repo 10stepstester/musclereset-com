@@ -71,17 +71,6 @@ export function Hero() {
             {hero.primaryCta}
             <ArrowRight size={18} />
           </a>
-          <a
-            href="#couples"
-            className="inline-flex items-center font-medium no-underline rounded-lg border border-border text-text-secondary hover:text-text-primary hover:border-border-glow transition-all"
-            style={{
-              padding: "14px 28px",
-              fontSize: "1rem",
-              backgroundColor: "transparent",
-            }}
-          >
-            {hero.secondaryCta}
-          </a>
         </motion.div>
       </div>
     </section>

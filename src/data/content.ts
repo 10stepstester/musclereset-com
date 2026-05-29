@@ -4,7 +4,6 @@ export const siteContent = {
     links: [
       { label: "Method", href: "#method" },
       { label: "For Practitioners", href: "#practitioners" },
-      { label: "For Couples", href: "#couples" },
       { label: "About", href: "#about" },
       { label: "FAQ", href: "#faq" },
     ],
@@ -17,7 +16,6 @@ export const siteContent = {
     subhead:
       "The Muscle Reset Technique isn't another adjustment protocol. It's a system for finding the muscles that have stopped firing and resetting them. Used in private practice for 23 years. Now being taught to manual therapists across the country.",
     primaryCta: "Join the practitioner waitlist",
-    secondaryCta: "I'm a patient (couples workshop)",
   },
 
   method: {
@@ -86,20 +84,6 @@ export const siteContent = {
     ],
   },
 
-  couples: {
-    heading: "The couples workshop.",
-    subhead:
-      "Bring your partner. Spend a Saturday learning how to find and fix the muscle patterns that drive each other's pain — without ever leaving the couch.",
-    paragraphs: [
-      "Most chronic back, neck, and shoulder pain comes from muscles that have quietly stopped doing their job. Your partner already knows where your tight spots are — they just don't know what to do with that information.",
-      "In one Saturday I'll teach you both how to test each other's muscles, find the ones that are sleeping, and reset them. You walk out with a practical, repeatable home routine.",
-      "This is the same technique I use with patients every day. The difference is you're learning it on someone who actually lives with you.",
-    ],
-    format:
-      "Half-day or full-day Saturday workshop · In-person at Overland Park office · Max ~8 couples",
-    pricing: "Pricing TBD",
-  },
-
   about: {
     heading: "About Dr. Ladd",
     bio: "Dr. Ladd Carlston has practiced chiropractic for 23 years. He started with traditional methods — the adjustments, the stretches, the exercise prescriptions — and they worked for a lot of people. But the chronic cases kept coming back. The ones where imaging looked fine, the spine was aligned, and the patient was still in pain. He started digging into why muscles shut off in the first place, and over the next decade built the Muscle Reset Technique — a systematic approach to finding and fixing the neuromuscular patterns that drive persistent pain. Today he runs Integrative Chiropractic in Overland Park, Kansas, and is teaching the system to other manual therapists.",
@@ -122,11 +106,6 @@ export const siteContent = {
       question: "Will there be workshops outside Kansas City?",
       answer:
         "Eventually. Join the waitlist to be the first to know.",
-    },
-    {
-      question: "How is the couples workshop different from the practitioner one?",
-      answer:
-        "Practitioner workshops are 2 full days and assume hands-on clinical skill. Couples workshops are a half-day, designed for two people who know each other's bodies and want practical at-home tools.",
     },
     {
       question: "Refund policy?",
