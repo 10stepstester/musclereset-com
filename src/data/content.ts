@@ -12,7 +12,7 @@ export const siteContent = {
 
   hero: {
     eyebrow: "DEVELOPED BY DR. LADD CARLSTON, DC",
-    headline: "Your chronic-pain clients keep coming back. This is what you're missing.",
+    headline: "Go deeper than the symptom.",
     subhead:
       "The Muscle Reset Technique isn't another adjustment protocol. It's a system for finding the muscles that have stopped firing and resetting them. Used in private practice for 23 years. Now being taught to manual therapists across the country.",
     primaryCta: "Join the practitioner waitlist",
